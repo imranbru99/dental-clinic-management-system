@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "dental-clinic-management-system",
+  "description": "Dental Clinic Management System — Healthcare Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Dental clinic system for appointments, treatment plans, imaging notes, and patient billing. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "healthcare",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/dental-clinic-management-system"
+}
